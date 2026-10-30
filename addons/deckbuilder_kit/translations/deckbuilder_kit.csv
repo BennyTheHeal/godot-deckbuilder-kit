@@ -1,0 +1,107 @@
+keys,en
+ %d times, %d times
+ to ALL enemies, to ALL enemies
+ to a random enemy, to a random enemy
+%+d cards each turn.,%+d cards each turn.
+%+d energy each turn.,%+d energy each turn.
+%s added to your cards.,%s added to your cards.
+%s blocks %d damage.,%s blocks %d damage.
+%s gains %d %s.,%s gains %d %s.
+%s gains %d Block.,%s gains %d Block.
+%s is defeated.,%s is defeated.
+%s is exhausted.,%s is exhausted.
+%s loses %d HP from %s.,%s loses %d HP from %s.
+%s loses %d HP.,%s loses %d HP.
+%s on %s wears off.,%s on %s wears off.
+%s recovers %d HP.,%s recovers %d HP.
+%s takes %d damage (%d blocked).,%s takes %d damage (%d blocked).
+%s takes %d damage from thorns.,%s takes %d damage from thorns.
+%s takes %d damage.,%s takes %d damage.
+%s takes effect.,%s takes effect.
+%s: %s.,%s: %s.
++%d gold.,+%d gold.
+Add %s %s to %s.,Add %s %s to %s.
+Add a card to your deck:,Add a card to your deck:
+Apply %s %s to ALL enemies.,Apply %s %s to ALL enemies.
+Apply %s %s to a random enemy.,Apply %s %s to a random enemy.
+Apply %s %s.,Apply %s %s.
+Attack,Attack
+Attack and debuff,Attack and debuff
+Attack and defend,Attack and defend
+Attackers take %d damage.,Attackers take %d damage.
+Attacks deal %+d damage.,Attacks deal %+d damage.
+Attacks deal %d%% damage.,Attacks deal %d%% damage.
+Block gains %+d.,Block gains %+d.
+Block is not removed at the start of its turn.,Block is not removed at the start of its turn.
+Blocked,Blocked
+Buff,Buff
+Choose an enemy.,Choose an enemy.
+Choose an enemy. Right click or Escape cancels.,Choose an enemy. Right click or Escape cancels.
+Close,Close
+Common,Common
+Continue,Continue
+Curse,Curse
+Deal %s damage,Deal %s damage
+Deals %d damage in total.,Deals %d damage in total.
+Debuff,Debuff
+Defeat...,Defeat...
+Defend,Defend
+Discard pile,Discard pile
+Discard pile shuffled into the draw pile.,Discard pile shuffled into the draw pile.
+Discard: %d,Discard: %d
+"Drag a card onto an enemy, or click it. E ends the turn.","Drag a card onto an enemy, or click it. E ends the turn."
+Draw %s card.,Draw %s card.
+Draw %s cards.,Draw %s cards.
+Draw pile (shown in no particular order),Draw pile (shown in no particular order)
+Draw pile: %d,Draw pile: %d
+End turn,End turn
+Enemy turn.,Enemy turn.
+Enemy turn...,Enemy turn...
+Energy: cards cost energy. It refills each turn.,Energy: cards cost energy. It refills each turn.
+Ethereal,Ethereal
+Exhaust,Exhaust
+Exhausted (gone until the end of the combat),Exhausted (gone until the end of the combat)
+Exhausted: %d,Exhausted: %d
+Gain %s %s.,Gain %s %s.
+Gain %s Block.,Gain %s Block.
+Gain %s energy.,Gain %s energy.
+Gains %d Block at the end of its turn.,Gains %d Block at the end of its turn.
+Gains %d Block.,Gains %d Block.
+Gains %d%% block.,Gains %d%% block.
+Hand full: %s goes to the discard pile.,Hand full: %s goes to the discard pile.
+Heal %s HP.,Heal %s HP.
+Heals %d HP at the start of its turn.,Heals %d HP at the start of its turn.
+Innate,Innate
+Lasts %d turns.,Lasts %d turns.
+Lasts 1 turn.,Lasts 1 turn.
+Lose %s HP.,Lose %s HP.
+Loses %d HP at the start of its turn.,Loses %d HP at the start of its turn.
+None left in the bag.,None left in the bag.
+Not enough energy.,Not enough energy.
+Power,Power
+Rare,Rare
+Remove %s.,Remove %s.
+Remove your debuffs.,Remove your debuffs.
+Retain,Retain
+Skill,Skill
+Skip,Skip
+Special,Special
+Starter,Starter
+Status,Status
+Takes %d%% damage from attacks.,Takes %d%% damage from attacks.
+That card is not in your hand.,That card is not in your hand.
+That did not work.,That did not work.
+The combat is over.,The combat is over.
+This card cannot be played.,This card cannot be played.
+Turn %d.,Turn %d.
+Uncommon,Uncommon
+Unknown,Unknown
+Unplayable,Unplayable
+Victory!,Victory!
+Wait for your turn.,Wait for your turn.
+You play %s.,You play %s.
+You use an item.,You use an item.
+Your turn.,Your turn.
+your discard pile,your discard pile
+your draw pile,your draw pile
+your hand,your hand
